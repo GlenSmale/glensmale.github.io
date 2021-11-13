@@ -1,4 +1,10 @@
-theme: jekyll-theme-minimal
+layout: stacked
+style: dark
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
+  - jemoji
+ 
 title: Glen Smale (Full-stack Software Developer)
 description: Hey! My name is Glen. I build software applications using Javascript, Python and Rust programming Languages.
-layout: stacked
