@@ -1,4 +1,13 @@
 theme: jekyll-theme-architect
 title: Glen Smale
 description: Full-stack Software Developer
-show_downloads: true
+show_downloads: false
+social_media:
+  # behance: your_username
+  # dribbble: your_username
+  facebook: timex4u
+  linkedin: glen-smale
+  medium: glensmale
+  stackoverflow: 12346337
+  twitter: glensmale
+  # youtube: your_username
